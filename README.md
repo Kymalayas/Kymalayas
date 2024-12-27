@@ -17,10 +17,10 @@
 * Wemade entertainment : games billing platform(~2012)
 * LNK Logic korea : games billing platform(~2018)
 * Consulting about Industry statistics
-* Easymedia : Web planning
+* Easymedia : Web planning & ON
   - https://www.dn-solutions.com/ko/main/index.do
   - https://gpc.hyundai.co.kr/
-* theMomma : billing platform, Van business, ESL business
-* Tetra signum : CPR Trainnig, CBS Mass portal site
+* theMomma : billing platform, Van business, ESL business, PM
+* Tetra signum : CPR Trainnig, CBS Mass portal site, PM
 
 
